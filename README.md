@@ -40,16 +40,16 @@ This code has 2 branches. Main branch (https://github.com/jyothisvjames/kseb-ele
 
 | Unit Slabs | Rate | New Proposed Rate |
 | ---------- |:----:|:-----------------:|
-| Upto 50    | ₹35  | ₹6.50             |
-| 51-100     | ₹45  | ₹7.20             |
-| 101-150    | ₹55  | ₹7.40             |
-| 151-200    | ₹70  | ₹7.60             |
-| 201-250    | ₹80  | ₹8.30             |
-| Upto 300   | ₹100 | ₹6.50             |
-| Upto 350   | ₹110 | ₹7.20             |
-| Upto 400   | ₹120 | ₹7.40             |
-| Upto 450   | ₹130 | ₹7.60             |
-| Above 500  | ₹150 | ₹8.30             |
+| Upto 50    | ₹35  | ₹50               |
+| 51-100     | ₹45  | ₹70               |
+| 101-150    | ₹55  | ₹110              |
+| 151-200    | ₹70  | ₹140              |
+| 201-250    | ₹80  | ₹160              |
+| Upto 300   | ₹100 | ₹200              |
+| Upto 350   | ₹110 | ₹220              |
+| Upto 400   | ₹120 | ₹240              |
+| Upto 450   | ₹130 | ₹260              |
+| Above 500  | ₹150 | ₹300              |
 
 ## KSEB Forumulas for Electricity Consumption in Kerala
 
