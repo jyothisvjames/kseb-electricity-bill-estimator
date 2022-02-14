@@ -16,6 +16,8 @@ python KSEB-Electricity-Bill-Estimator.py
 ## KSEB Slabs for Electricity Consumption in Kerala
 The new proposed rates for the year 2022-23 is also provided.
 
+This code has 2 branches. Main branch which provides the current KSEB electricity bill estimation and a Proposed branch (https://github.com/jyothisvjames/kseb-electricity-bill-estimator/tree/proposed) which contains the electricity bill estimation with the new rate proposed for 2022-23. This rate has not been accepted yet and is provided for comparing the change in rate that might be happen to your current bill.
+
 ### Telescopic (Rate/Unit for one month)
 
 | Unit Slabs | Rate/Unit | New Proposed Rate/Unit |
