@@ -3,10 +3,9 @@ Python code to estimate the KSEB electricity bill for 2 months as per the slabs 
 
 This program accepts the number of units and can estimate the electricity bill for two months for a single phase domestic connection using the relevant telescopic and non-telescopic slabs specified by Kerala State Electricity Board (KSEB).
 
-This is a python code and should be run in a Python compiler.
+This is a python code and should be run inside a Python compiler.
 
-If you wish to run the code online, copy the code and paste it into the online compiler such as https://www.programiz.com/python-programming/online-compiler/ and enter the number of units consumed when asked.
-
+If you wish to run the code online, copy the code by viewing the file KSEB Electricity Bill Estimator.py in RAW and paste it into an online compiler such as https://www.programiz.com/python-programming/online-compiler/ and run it. Enter the number of units consumed when asked.
 
 
 ## KSEB Slabs for Electricity Consumption in Kerala
