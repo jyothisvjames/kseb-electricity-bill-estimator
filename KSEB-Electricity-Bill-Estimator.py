@@ -1,16 +1,16 @@
-# KSEB ENERGY SLABS
+# KSEB PROPOSED ENERGY SLABS FOR 2022-23
 # Telescopic
-tel_s1 = 3.15
-tel_s2 = 3.70
-tel_s3 = 4.80
-tel_s4 = 6.40
-tel_s5 = 7.60
+tel_s1 = 3.50
+tel_s2 = 4.10
+tel_s3 = 5.50
+tel_s4 = 7.00
+tel_s5 = 8.00
 # Non-Telescopic
-ntel_s1 = 5.80
-ntel_s2 = 6.60
-ntel_s3 = 6.90
-ntel_s4 = 7.10
-ntel_s5 = 7.90
+ntel_s1 = 6.50
+ntel_s2 = 7.20
+ntel_s3 = 7.40
+ntel_s4 = 7.60
+ntel_s5 = 8.30
 # Meter Rent
 meter_rent = 14.16
 
@@ -46,25 +46,25 @@ def non_telescopic(units):
 def fixed_charges_calc(units):
     global fixed_charges
     if units<=50:
-        fixed_charges = 35
+        fixed_charges = 50
     elif units <=100:
-        fixed_charges = 45
-    elif units<=150:
-        fixed_charges = 55
-    elif units<=200:
         fixed_charges = 70
-    elif units<=250:
-        fixed_charges = 80
-    elif units<=300:
-        fixed_charges = 100
-    elif units<=350:
+    elif units<=150:
         fixed_charges = 110
+    elif units<=200:
+        fixed_charges = 140
+    elif units<=250:
+        fixed_charges = 160
+    elif units<=300:
+        fixed_charges = 200
+    elif units<=350:
+        fixed_charges = 220
     elif units<=400:
-        fixed_charges = 120
+        fixed_charges = 240
     elif units<=500:
-        fixed_charges = 130
+        fixed_charges = 260
     else:
-        fixed_charges = 150
+        fixed_charges = 300
 #############################################################################################
 
 units = int(input("Enter the number of units consumed: "))
