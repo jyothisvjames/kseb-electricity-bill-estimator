@@ -5,7 +5,7 @@ This program accepts the number of units and can estimate the electricity bill f
 
 This is a python code and should be run inside a Python compiler.
 
-If you wish to run the code online, copy the code by viewing the file KSEB Electricity Bill Estimator.py in RAW and paste it into an online compiler such as https://www.programiz.com/python-programming/online-compiler/ and run it. Enter the number of units consumed when asked.
+If you wish to run the code online, copy the code by viewing the file KSEB-Electricity-Bill-Estimator.py in RAW and paste it into an online compiler such as https://www.programiz.com/python-programming/online-compiler/ and run it. Enter the number of units consumed when asked.
 
 To run the code in a Python console, run the following command and enter the number of units consumed when asked:
 ```
