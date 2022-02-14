@@ -1,4 +1,4 @@
-# KSEB Bill Estimator
+# KSEB Electricity Bill Estimator
 Python code to estimate the KSEB electricity bill for 2 months as per the slabs of KSEB in Kerala.
 
 This program accepts the number of units and can estimate the electricity bill for two months for a single phase domestic connection using the relevant telescopic and non-telescopic slabs specified by Kerala State Electricity Board (KSEB).
